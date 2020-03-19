@@ -36,7 +36,9 @@ Video
 <img width="700" src="https://user-images.githubusercontent.com/44941601/76958321-dcc39600-695a-11ea-874a-054df10d44bf.png"> 
 
 <hr/>
-  
+🔧開発情報
+---------
+
 制作時期　:2017/07? 2017/08?(正確ではない、でも夏休みに作りました)  
 制作時間　:  一週間  
 使用ツール :  Unity2017(正確ではない)
