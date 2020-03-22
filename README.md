@@ -10,6 +10,7 @@ Video
 
 勝利 :   
 <img width="700" src="https://user-images.githubusercontent.com/44941601/76959615-4775d100-695d-11ea-8075-17ccc3eb4a48.gif">
+  
 元々ボスの体力が20でしたが、私がゲームが下手で10に減らしてクリアしました。
 
 </hr>
